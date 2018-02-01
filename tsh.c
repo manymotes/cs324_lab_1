@@ -721,7 +721,3 @@ void sigquit_handler(int sig)
     exit(1);
 }
 
-
-
-//struggling with 11-13
-//16 has signal 17 instead of 20
